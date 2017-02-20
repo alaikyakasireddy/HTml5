@@ -1,6 +1,6 @@
 # Contributing to HTML5 Boilerplate
 
-♥ [HTML5 Boilerplate](https://html5boilerplate.com/) and want to get involved?
+♥ (https://github.com/alaikyakasireddy/) and want to get involved?
 Thanks! There are plenty of ways you can help!
 
 Please take a moment to review this document in order to make the contribution
@@ -10,29 +10,6 @@ Following these guidelines helps to communicate that you respect the time of
 the developers managing and developing this open source project. In return,
 they should reciprocate that respect in addressing your issue or assessing
 patches and features.
-
-
-## Using the issue tracker
-
-The [issue tracker](https://github.com/h5bp/html5-boilerplate/issues) is
-the preferred channel for [bug reports](#bugs), [features requests](#features)
-and [submitting pull requests](#pull-requests), but please respect the following
-restrictions:
-
-* Please **do not** use the issue tracker for personal support requests (use
-  [Stack Overflow](https://stackoverflow.com/questions/tagged/html5boilerplate)).
-
-* Please **do not** derail or troll issues. Keep the discussion on topic and
-  respect the opinions of others.
-
-* Please **do not** open issues or pull requests regarding the code in
-  [`.htaccess`](https://github.com/h5bp/server-configs-apache),
-  [`jQuery`](https://github.com/jquery/jquery/),
-  [`Modernizr`](https://github.com/Modernizr/Modernizr) or
-  [`Normalize.css`](https://github.com/necolas/normalize.css) (open them in
-  their respective repositories).
-
-
 <a name="bugs"></a>
 ## Bug reports
 
@@ -150,4 +127,4 @@ included in the project:
     with a clear title and description.
 
 **IMPORTANT**: By submitting a patch, you agree to allow the project
-owners to license your work under the terms of the [MIT License](LICENSE.txt).
+owners to license your work under the terms of the(LICENSE.txt).
