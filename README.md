@@ -1,6 +1,4 @@
-# [HTML5 Boilerplate](https://html5boilerplate.com/)
-
-[![Build Status](https://travis-ci.org/h5bp/html5-boilerplate.svg)](https://travis-ci.org/h5bp/html5-boilerplate)
+# [HTML5](https://github.com/alaikyakasireddy)
 [![devDependency Status](https://david-dm.org/h5bp/html5-boilerplate/dev-status.svg)](https://david-dm.org/h5bp/html5-boilerplate#info=devDependencies)
 
 HTML5 Boilerplate is a professional front-end template for building
@@ -10,10 +8,8 @@ This project is the product of many years of iterative development and
 combined community knowledge. It does not impose a specific development
 philosophy or framework, so you're free to architect your code in the
 way that you want.
+* Source: [https://github.com/alaikyakasireddy/HTml5]
 
-* Homepage: [https://html5boilerplate.com/](https://html5boilerplate.com/)
-* Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-* Twitter: [@h5bp](https://twitter.com/h5bp)
 
 
 ## Quick start
@@ -21,11 +17,10 @@ way that you want.
 Choose one of the following options:
 
 1. Download the latest stable release from
-   [html5boilerplate.com](https://html5boilerplate.com/) or create a
+  (https://github.com/alaikyakasireddy) or create a
    custom build using [Initializr](http://www.initializr.com/).
 2. Clone the git repo — `git clone
-   https://github.com/h5bp/html5-boilerplate.git` - and checkout the
-   [tagged release](https://github.com/h5bp/html5-boilerplate/releases)
+   https://github.com/alaikyakasireddy/Html5.git` 
    you'd like to use.
 
 
@@ -60,12 +55,6 @@ Choose one of the following options:
 * Opera *(latest 2)*
 * Safari *(latest 2)*
 
-*This doesn't mean that HTML5 Boilerplate cannot be used in older browsers,
-just that we'll ensure compatibility with the ones mentioned above.*
-
-If you need legacy browser support you
-can use [HTML5 Boilerplate v4](https://github.com/h5bp/html5-boilerplate/tree/v4) (IE 6+, Firefox 3.6+, Safari 4+),
-or [HTML5 Boilerplate v5](https://github.com/h5bp/html5-boilerplate/tree/v5.0.0) (IE8+). They are no longer actively developed.
 
 
 ## Documentation
@@ -90,4 +79,4 @@ the [guidelines](CONTRIBUTING.md):
 
 ## License
 
-The code is available under the [MIT license](LICENSE.txt).
+The code is available under the (LICENSE.txt).
